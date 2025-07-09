@@ -14,3 +14,5 @@ In this project, I designed interactive dashboards using Power BI that focused o
 - Freight Trends by Day Analysis
 - Number of Years Covered
 - Quantity Shipped
+# Data Source
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2022.bak
